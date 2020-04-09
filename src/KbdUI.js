@@ -26,7 +26,7 @@ export default class KbdUI extends Plugin {
 			view.set( {
 				label: t( 'Keyboard shortcut' ),
 				icon: kbdIcon,
-				keystroke: 'ALT+SHIFT+K',
+				keystroke: 'CTRL+ALT+K',
 				tooltip: true,
 				isToggleable: true
 			} );

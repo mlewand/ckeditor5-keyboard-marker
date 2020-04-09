@@ -39,6 +39,6 @@ export default class KbdEditing extends Plugin {
 		} );
 
 		editor.commands.add( KBD, new AttributeCommand( editor, KBD ) );
-		editor.keystrokes.set( 'ALT+SHIFT+K', KBD );
+		editor.keystrokes.set( 'CTRL+ALT+K', KBD );
 	}
 }
