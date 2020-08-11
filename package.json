@@ -7,10 +7,10 @@
     "ckeditor5",
     "ckeditor 5"
   ],
-  "dependencies": {
-    "@ckeditor/ckeditor5-core": "^19.0.0",
-    "@ckeditor/ckeditor5-ui": "^19.0.0",
-    "@ckeditor/ckeditor5-basic-styles": "^19.0.0"
+  "peerDependencies": {
+    "@ckeditor/ckeditor5-core": ">=19.0.0",
+    "@ckeditor/ckeditor5-ui": ">=19.0.0",
+    "@ckeditor/ckeditor5-basic-styles": ">=19.0.0"
   },
   "devDependencies": {
     "eslint": "^5.5.0",
