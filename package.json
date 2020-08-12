@@ -1,6 +1,6 @@
 {
   "name": "@mlewand/ckeditor5-keyboard-marker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This plugin adds support for the keyboard input element (`<kbd>`) to CKEditor 5.",
   "keywords": [
     "ckeditor",
