@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/dm/@mlewand/ckeditor5-keyboard-marker.svg?style=flat-square)](https://www.npmjs.org/package/@mlewand/ckeditor5-keyboard-marker)
+
 # CKEditor 5 keyboard marker
 
 This plugin adds support for the keyboard input element (`<kbd>`) to CKEditor 5.
