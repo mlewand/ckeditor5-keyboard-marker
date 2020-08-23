@@ -33,7 +33,8 @@
     "url": "https://github.com/mlewand/ckeditor5-keyboard-marker.git"
   },
   "files": [
-    "src"
+    "src",
+    "icons"
   ],
   "scripts": {
     "lint": "eslint --quiet '**/*.js'",
